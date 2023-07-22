@@ -1,0 +1,12 @@
+???. 19, 2023 12:21:56 PM dip1.Main main
+INFO: Method main in model package started
+èþë. 19, 2023 12:22:14 PM dip1.Main main
+INFO: Method main in model package started
+èþë. 19, 2023 12:22:25 PM dip1.Main main
+INFO: Method main in model package started
+èþë. 19, 2023 12:22:54 PM dip1.Main main
+INFO: Method main in model package started
+èþë. 19, 2023 12:45:40 PM dip1.Main main
+INFO: Method main in model package started
+èþë. 19, 2023 12:49:39 PM dip1.Main main
+INFO: Method main in model package started
